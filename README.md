@@ -2,19 +2,18 @@
 
 # TASK
 
-You will model a dataset with missing values (at random). Use the provided
+The project aims to model a dataset with missing values (at random). Using the given
 dataset about cement strength (a regression problem) and use one of the chosen modelling
 techniques below:
+
 - random forest,
 - boosted trees (XGBoost or other),
 - linear regression,
 - regularized regression,
 - SVM regression,
 - KNN regression.
-Each of the techniques available can only be used by two groups, so contact me with the list of your
-group members and to reserve your modelling technique.
+
 The task is to model once without replacing the missing values and then again, after replacement.
-Also, consider doing additional preprocessing.
 
 # DATA
 
